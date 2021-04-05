@@ -1,0 +1,14 @@
+name: Explode
+main: MyPlugin.Main
+version: 1.16.5
+author: jman211
+commands:
+    explode:
+         description: Explodes
+         usage: /explode
+    ekick: 
+         description: kicks
+         usage: /ekick
+    cum:
+         description: bucket o' cum
+         usage: /cum
